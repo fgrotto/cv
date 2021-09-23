@@ -1,8 +1,0 @@
-Use the calibration toolbox to calibrate some other examples to use 
-in order to have more examples
-
-Fix fiore algorithm (DONE)
-Implement stereo2
-Improve disparity/stereo1 to have the correct images as input
-Implement correct algorithm for corner detection (harris stephensen)
-
