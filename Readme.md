@@ -1,3 +1,6 @@
-# Collection of different Computer Vision scripts
+# Collection of Random Computer Vision Scripts
 
-Collection of script for computer vision tasks written in Matlab heavily inspired from Multiple view geometry in computer vision by Richard Hartley 
+Collection of random computer vision scripts implemented in Matlab. 
+
+## References
+- "Multiple View Geometry in Computer Vision" by Richard Hartley 
